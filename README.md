@@ -23,7 +23,7 @@ So the rental count/Demand for bikes depends on the variables:yr,temp,hum,windsp
 
 And the Best fit line's equation is as below
 <br></br>
-cnt= 0.223 +0.228(yr) +0.599(temp) -0.176(hum) -0.190(windspeed) +0.083(season_summer)+0.134(season_winter) -0.044(mnth_July) +0.092(mnth_September) -0.042(weekday_Sunday) -0.234(weathersit_Light Snow ) -0.051(weathersit_Mist & Cloudy)
+**cnt= 0.223 +0.228(yr) +0.599(temp) -0.176(hum) -0.190(windspeed) +0.083(season_summer)+0.134(season_winter) -0.044(mnth_July) +0.092(mnth_September) -0.042(weekday_Sunday) -0.234(weathersit_Light Snow ) -0.051(weathersit_Mist & Cloudy)**
 
 
 ## Technologies Used
